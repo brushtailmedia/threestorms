@@ -1,1 +1,1 @@
-Sitemap: https://www.threestorms.com/sitemap.xml
+Sitemap: https://threestorms.com/sitemap.xml
